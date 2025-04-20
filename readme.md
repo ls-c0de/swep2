@@ -1,0 +1,3 @@
+## Warum sind dort /src und /src_old vorhanden
+
+Wenn man mit git filter-repo arbeitet, sollte man nicht --inverse-path vergessen...
