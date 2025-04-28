@@ -1,3 +1,3 @@
-## Warum sind dort /src und /src_old vorhanden
+## SWEP 2
 
-Wenn man mit git filter-repo arbeitet, sollte man nicht --inverse-path vergessen...
+Code i wrote for my assigments in my 2.semester module
