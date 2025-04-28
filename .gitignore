@@ -1,0 +1,7 @@
+/bin
+/src/aufgabe12/InputTools.java
+
+# Eclipse IDE
+/.classpath
+.settings
+.project

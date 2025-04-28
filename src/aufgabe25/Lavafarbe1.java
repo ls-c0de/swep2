@@ -1,6 +1,6 @@
 package aufgabe25;
 
-public enum LAVAFARBE {
+public enum Lavafarbe {
 	rot,
 	gruen,
 	gelb,
